@@ -52,3 +52,41 @@ There are many Option's in Chicago but the below listed options are the finest o
 
 >Money is a tool, so I don't have to be.
 ― *Eddie Mumford*
+
+---
+
+# xxx
+
+>In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering. For instance, the vertices of the graph may represent tasks to be performed, and the edges may represent constraints that one task must be performed before another; in this application, a topological ordering is just a valid sequence for the tasks. Precisely, a topological sort is a graph traversal in which each node v is visited only after all its dependencies are visited. A topological ordering is possible if and only if the graph has no directed cycles, that is, if it is a directed acyclic graph (DAG). Any DAG has at least one topological ordering, and algorithms are known for constructing a topological ordering of any DAG in linear time. Topological sorting has many applications especially in ranking problems such as feedback arc set. Topological sorting is possible even when the DAG has disconnected components.
+
+Source link: <https://en.wikipedia.org/wiki/Topological_sorting>
+
+
+```
+int n; // number of vertices
+vector<vector<int>> adj; // adjacency list of graph
+vector<bool> visited;
+vector<int> ans;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+    ans.push_back(v);
+}
+
+void topological_sort() {
+    visited.assign(n, false);
+    ans.clear();
+    for (int i = 0; i < n; ++i) {
+        if (!visited[i])
+            dfs(i);
+    }
+    reverse(ans.begin(), ans.end());
+}
+
+```
+
+Source link: <https://cp-algorithms.com/graph/topological-sort.html>

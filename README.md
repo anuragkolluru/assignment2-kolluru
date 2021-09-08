@@ -8,7 +8,7 @@ Chicago is one of the beautiful citie's in USA. I've been there recently, just a
 
 ***
 
-# Navigation From Maryville to Tampa
+# Navigation From Maryville To Tampa
 
 1. First you have to go through St Louis, because it is the shortest possible route .
 2. Then from Mt veron, Marion,Metropolis and Clarksville you'll reach Nashville

@@ -44,3 +44,11 @@ There are many Option's in Chicago but the below listed options are the finest o
 | 8pcs Chicken Family Meal  | Popoyes  | 22.3$  |
 
 ***
+
+# Pithy Quotes
+
+>Nobody reaches anywhere by believing.
+― *Osho*
+
+>Money is a tool, so I don't have to be.
+― *Eddie Mumford*

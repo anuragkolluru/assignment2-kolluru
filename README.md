@@ -18,4 +18,14 @@ Chicago is one of the beautiful citie's in USA. I've been there recently, just a
     * Which is in between St.Petersburg,clearwater and lakeland
     * These all are located in Florida state
 
+# Items That I Carry To My Favourite Place
+
+* Camera
+* Short's and Tee's
+* Shades
+* Camping Kit
+* Sunscreen
+
+---
+
 

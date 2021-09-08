@@ -32,6 +32,15 @@ Chicago is one of the beautiful citie's in USA. I've been there recently, just a
 
 ---
 
+# Best Places To Hangout In Chicago
 
+There are many Option's in Chicago but the below listed options are the finest of all, atleat from my perspective
 
+| Item  | Location  | Price  |      
+|---|---|---|
+| Mc Salsa Chicken Burger  | MC Donalds  | 2.3$  |      
+| 1/2 Chicken Peri Peri  | Nandos  | 16.3$  |      
+| Taro Bubble tea  | Boba Blend  | 6.7$  |      
+| 8pcs Chicken Family Meal  | Popoyes  | 22.3$  |
 
+***

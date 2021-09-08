@@ -14,7 +14,7 @@ Chicago is one of the beautiful citie's in USA. I've been there recently, just a
 2. Then from Mt veron, Marion,Metropolis and Clarksville you'll reach Nashville
 3. From there you must pass Chattanooga,Georgia,Lake City,Gainesville and Ocala to reach Tampa
 4. Atlast you have to drive on the road between San antino and Spring lake
-5. Finally you reach Tampa 
+5. Finally you'll reach Tampa 
     * Which is in between St.Petersburg,clearwater and lakeland
     * These all are located in Florida state
 
